@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Md Semanto Bolbol
+![Header](./banner/banner.png)
+
+# 👋 Assalamu-alaikum, I'm ***MD SEMANTO BOLBOL***
 
 ### 🚀 About Me
 I'm a passionate ***Learner*** with a strong interest in ***Software Development***. I love building scalable, efficient, and user-friendly solutions. Currently exploring ***Next.js***.
@@ -6,7 +8,7 @@ I'm a passionate ***Learner*** with a strong interest in ***Software Development
 - 🔭 I’m currently working on ***Halaliat Shop***
 - 🌱 I’m currently learning ***React***
 - 👯 I’m looking to collaborate on **[open-source projects/ideas]**
-- 💬 Ask me about ***HTML5, CSS, JavaScript, TypScript***
+- 💬 Ask me about ***HTML5, CSS, JavaScript, TypScript,React***
 - 📫 How to reach me: **seman2.1206@proton.me**
 - ⚡ Fun fact: ***Life has no undo button and death has no restart!***
 
