@@ -40,32 +40,36 @@ I'm a passionate ***Learner*** with a strong interest in ***Software Development
 
 ---
 
-## 🏆 Featured Projects
-
 ### [EggSell Shop](https://github.com/seman2-Dev/eggsell_shop)
-**Description:** A brief description of what the project does, its purpose, and key features.  
-**Tech Stack:** `HTML5` `CSS` `JavaScript` 
-**Highlights:**
-- Implemented real-time updates.
-- Achieved 80-90% uptime with load balancing.
-- 1+ stars on GitHub.
 
-### [LMS-Learning Management System](https://github.com/seman2-Dev/lms_project)
-**Description:** Explain the problem solved and impact.  
-**Tech Stack:** `Python` `Django` `PostgreSQL` `AWS`  
+**Description:** A modern static egg-selling website that allows customers to view live stock, select egg quantities, calculate prices, provide delivery information, choose payment methods, and place orders directly through WhatsApp. Includes an interactive 3D egg display and an admin panel for stock and sales management.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Three.js` `LocalStorage`
+
 **Highlights:**
-- Reduced processing time by 40% through optimization.
-- Integrated third-party APIs for payment and notifications.
-- Used by 1k+ active users.
+- Built an interactive 3D egg and tray display using Three.js.
+- Implemented real-time stock, sold, and available quantity updates.
+- Added dynamic price calculation with quantity and delivery charges.
+- Integrated Cash on Delivery, bKash, and Nagad payment options.
+- Implemented WhatsApp order integration for direct customer orders.
+- Added admin panel for stock and sales management.
+- Used LocalStorage for persistent stock and sales data.
+- Designed a responsive mobile-friendly interface.
+
+### [LMS-Learning Management System](https://github.com/seman2-Dev/lms_learning-managment-system)
+
+**Description:** Full-stack Learning Management System designed to streamline academic management by connecting administrators, teachers, and students through centralized tools for attendance, examinations, results, syllabus, notices, complaints, documents, and communication.
+
+**Tech Stack:** `HTML5` `Tailwind CSS` `React.js` `Node.js` `Express.js` `JavaScript`
+
+**Highlights:**
+- Built REST APIs for teacher and student management, attendance tracking, examination results, CGPA, notices, syllabus, complaints, and teacher ratings.
+- Implemented separate academic workflows for administrators, teachers, and students, including performance tracking and course management.
+- Added communication features with teacher-student chat and notification hooks for attendance, examination results, and live classes.
 
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seman2-Dev&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seman2-Dev&layout=compact&theme=radical" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seman2-Dev&theme=radical" alt="GitHub Streak" />
