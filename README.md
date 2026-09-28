@@ -4,18 +4,9 @@
 ![Header](./banner/banner.png)
 
 <p align="center">
-  <a href="https://www.youtube.com/c/seman2-Dev?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/seman2-Dev">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/seman2-Dev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/seman2-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/seman2-Dev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/seman2-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
- <a href="https://seman2-Dev.com">
-    <img alt="followers" title="Visit My Portfolio" src="https://custom-icon-badges.herokuapp.com/github/stars/seman2-Dev?color=55960c&style=for-the-badge&labelColor=581845&logo=globe&label=Visit%20Portfolio"/></a>
+<a href="https://github.com/seman2-Dev/">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=seman2-Dev&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
 </p>
-
 
 # <p align="center"> 👋 Assalamu-alaikum, I'm ***MD SEMANTO BOLBOL*** </p>
 
@@ -161,11 +152,6 @@ I'm a passionate ***Learner*** with a strong interest in ***Software Development
 <a target="_blank" href="https://instagram.com/seman2-Dev"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
 <a target="_blank" href="https://pinterest.com/seman2-Dev"><img width="50px" src="https://i.ibb.co/q9NZdzG/Pinterest.png" alt="Pinterest" border="0"></a>
  </p>
-
-<p align="center">
-<a href="https://github.com/seman2-Dev/">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=seman2-Dev&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
-</p>
 
 <p align="center">
   <a href="#top">
