@@ -1,8 +1,25 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
+
 ![Header](./banner/banner.png)
 
-# 👋 Assalamu-alaikum, I'm ***MD SEMANTO BOLBOL***
+<p align="center">
+  <a href="https://www.youtube.com/c/seman2-Dev?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/seman2-Dev">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCLpJxVPrSZvDwFPgdeaJRRg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/seman2-Dev?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/seman2-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/seman2-Dev?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/seman2-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ <a href="https://seman2-Dev.com">
+    <img alt="followers" title="Visit My Portfolio" src="https://custom-icon-badges.herokuapp.com/github/stars/seman2-Dev?color=55960c&style=for-the-badge&labelColor=581845&logo=globe&label=Visit%20Portfolio"/></a>
+</p>
 
-### 🚀 About Me
+
+# <p align="center"> 👋 Assalamu-alaikum, I'm ***MD SEMANTO BOLBOL*** </p>
+
+### <p align="center">🚀 About Me</p>
 I'm a passionate ***Learner*** with a strong interest in ***Software Development***. I love building scalable, efficient, and user-friendly solutions. Currently exploring ***Next.js***.
 
 - 🔭 I’m currently working on ***Halaliat Shop***
@@ -11,36 +28,77 @@ I'm a passionate ***Learner*** with a strong interest in ***Software Development
 - 💬 Ask me about ***HTML5, CSS, JavaScript, TypScript,React***
 - 📫 How to reach me: **seman2.1206@proton.me**
 - ⚡ Fun fact: ***Life has no undo button and death has no restart!***
+<br>
 
----
+<div align="center" style="width: 100%; padding: 20px; background: #000; border-radius: 12px;">
 
-## 🛠️ Tech Stack
+  <h2 style="color: white; margin: 0;">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+    &nbsp;Tech Stack&nbsp;
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  </h2>
+<div align="center">
+  <table>
+  <tr>
+    <td align="center" valign="middle" width="35%">
+      <h3>💻 Programming Languages</h3>
+    </td>
+    <td align="center" valign="middle" width="65%">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts" />
+      </a>
+    </td>
+  </tr>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  <tr>
+    <td align="center" valign="middle">
+      <h3>🌐 Web Development</h3>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite" />
+      </a>
+    </td>
+  </tr>
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  <tr>
+    <td align="center" valign="middle">
+      <h3>🗄️ Databases</h3>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs" />
+      </a>
+    </td>
+  </tr>
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  <tr>
+    <td align="center" valign="middle">
+      <h3>☁️ Cloud & DevOps</h3>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=azure,netlify,vercel,github-actions" />
+      </a>
+    </td>
+  </tr>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  <tr>
+    <td align="center" valign="middle">
+      <h3>⚙️ Tools & Platforms</h3>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
+      </a>
+    </td>
+  </tr>
+  </table>
+</div>
+</div>
+<br><br>
 
-### DevOps & Cloud
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
+# <p align="center">My Top Projects</p>
 
 ### [EggSell Shop](https://github.com/seman2-Dev/eggsell_shop)
 
@@ -69,31 +127,50 @@ I'm a passionate ***Learner*** with a strong interest in ***Software Development
 - Implemented separate academic workflows for administrators, teachers, and students, including performance tracking and course management.
 - Added communication features with teacher-student chat and notification hooks for attendance, examination results, and live classes.
 
----
+<br><br>
 
-## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000&color=0FF75B&center=true&vCenter=true&width=800&height=80&lines=Time+spent+on+GitHub" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seman2-Dev&theme=radical" alt="GitHub Streak" />
 </div>
 
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seman2-Dev" width="100%"/>
+    </td>
+    <td align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=seman2-Dev&theme=dark&background=0D1117&border=1F6F78&stroke=1F6F78&ring=4DD0E1&fire=4CAF78&currStreakLabel=4DD0E1&sideLabels=9FE2BF&currStreakNum=E8F5E9&sideNums=B7DCC8&dates=6B7C85" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seman2-Dev&theme=github_dark" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-## 🎓 Education
+<br><br>
 
-**Diploma in Computer Science & Technology**  
-[Rajshahi Govt. Polytechnical Institute](https://university.edu) — *2023 – 2027*  
-CGPA: 3.../4.0  
-Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Distributed Systems.
+<p align="center">
+<a target="_blank" href="https://linkedin.com/in/seman2-Dev"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
+ <a target="_blank" href="https://facebook.com/seman2-Dev"><img width="50px" src="https://i.ibb.co/mCWS8dP/Facebook.png" alt="Facebook" border="0"></a>
+<a target="_blank" href="https://youtube.com/seman2-Dev"><img width="50px" src="https://i.ibb.co/R0f8dFN/youtube.png" alt="Youtube" border="0"></a>
+<a target="_blank" href="https://twitter.com/seman2-Dev"><img width="50px" src="https://i.ibb.co/CmSvDh4/Twitter.png" alt="Twitter" border="0"></a>
+<a target="_blank" href="https://instagram.com/seman2-Dev"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
+<a target="_blank" href="https://pinterest.com/seman2-Dev"><img width="50px" src="https://i.ibb.co/q9NZdzG/Pinterest.png" alt="Pinterest" border="0"></a>
+ </p>
 
----
+<p align="center">
+<a href="https://github.com/seman2-Dev/">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=seman2-Dev&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
+</p>
 
-## 📫 Let's Connect
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-a11477?style=for-the-badge" alt="Back to top button" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsemantobolbol)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](seman2.1206@proton.me)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)]([https://yourportfolio.com](https://github.com/seman2-Dev/readme.portfolio/new/main?filename=README.md))
-
----
-
-⭐️ From [seman2-Dev](https://github.com/seman2-Dev)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
